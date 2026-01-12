@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit061&label=Profile%20views&color=0e75b6&style=flat" alt="arpit061" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis, EDA, Machine Learning**
+- 🌱 I’m currently learning **Deep Learning and MLops**
 
 - 💬 Ask me about **Python, Data Visualization, EDA & Feature Enginnering, Supervised Machine Learning Algorithms**
 
